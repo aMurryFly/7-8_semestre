@@ -53,7 +53,7 @@ Los 4 pasos por los que se pasa para generar electricidad:
 
 **Ríos fronterizos **Guatemala / Belice
 
-- Uzumacinta
+- Uzumacinta (Guatemala)asfsessasasdsad   
 
 - Hondo (Belice)
 
@@ -92,3 +92,27 @@ Los 4 pasos por los que se pasa para generar electricidad:
 **RECORD** 1998 Mundial en Francia: Holanda vs México - gool de Cuac
 
 ​				¿La demanda eléctrica subió o bajó? = 
+
+
+
+
+
+# Ingeniería como carrera profesional
+
+
+
+**Investigación:** Búsqueda de nuevos conocimientos y técnicas , de estudio y en el campo laboral
+
+**Desarrollo:** Empleo de nuevos conocimientos y técnicas
+
+**Diseño: ** Especificar las soluciones
+
+**Producción:** Trasnsformación de materias primas en productos 
+
+
+
+**¿Dónde nació la facultad de ingeniería en la UNAM ?**
+
+- El Real Seminario de Minería, en México,  
+
+- UNAM se fundó en 1910
