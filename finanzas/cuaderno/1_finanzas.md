@@ -159,7 +159,7 @@ Hay 2 tipos de tasas de interés
 
 El indicador financiero que establece el costo del dinero en México:
 
-**TIE = Tasa de Interés Efectivo**
+**TIIE = Tasa de Interés Interbancaria de Equilibrio**
 
 
 
@@ -227,11 +227,10 @@ Es el calculado sobre el capital más interés (Saldo insoluto)
 
 **Interés**
 $$
-Interés ($) = I = F - P \\
+Interes ($) = I = F - P \\
 
-Interés(Procentaje ) = ( F - P ) / P
+Interes( \% ) = ( F - P ) / P
 $$
-
 
 **Interés acumulado:**
 $$
@@ -248,6 +247,53 @@ $$
 ### Ejercicios
 
 ![image-20201006084127186](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201006084127186.png)
+
+
+
+
+
+------
+
+**NOTA: 6.75 de interés anual -> .0225 tasa de interés mensual**
+
+![image-20201008081523217](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008081523217.png)
+
+![image-20201008081832668](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008081832668.png)
+
+## Tasas de Interés 
+
+
+
+- Tasa de interés promedio más no tasa de interés fija
+
+- CAT = Costo Anual Total 
+  - Es la suma de todos aquellos factores que contribuyen a la tasa de interés final (Tasa de interés  máxima a cobrar por el banco).
+
+
+
+#### Valor del dinero a través del tiempo 
+
+
+
+El VDT y la tasa de interés conjuntamente generan el concepto de equivalencia loq ue significa:
+
+- *Diferentes sumas de dinero en diferentes tiempos pueden tener igual valor económico*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

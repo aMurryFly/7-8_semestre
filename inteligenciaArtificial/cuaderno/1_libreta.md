@@ -114,6 +114,38 @@ Nació el lenguaje de programación LISP, recibió premio turing 1958
 
 
 
+------
+
+# Aprendizaje
+
+
+
+![image-20201008113726652](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008113726652.png)
+
+![image-20201008114104185](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008114104185.png)
+
+
+
+![image-20201008114451674](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008114451674.png)
+
+
+
+![image-20201008114522976](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008114522976.png)
+
+![image-20201008114801955](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008114801955.png)
+
+![image-20201008115355753](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008115355753.png)
+
+![image-20201008115615356](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008115615356.png)
+
+![image-20201008115642489](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008115642489.png)
+
+![image-20201008115715972](/Users/alfonsomurrietavillegas/Library/Application Support/typora-user-images/image-20201008115715972.png)
+
+
+
+
+
 
 
 
